@@ -7,9 +7,10 @@ function Tugas7() {
         <div className="box">
           <h1>Data Diri Kelas ReactJS</h1>
           <hr></hr>
-          <ol>
-            
-          </ol>
+          <ul>
+            <li><b>Nama Lengkap :</b> Ardian Arya Putra</li>
+            <li><b>Email :</b> ardian678@smk.belajar.id</li>
+          </ul>
         </div>
       </div>
     </div>
